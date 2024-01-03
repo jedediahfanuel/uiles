@@ -8,7 +8,7 @@ TODO: Write installation instructions here
 
 ## Usage
 
-TODO: Write usage instructions here
+`curl http://localhost:8080/ -F name=foo -F file=@./Question.md`
 
 ## Development
 
