@@ -1,0 +1,13 @@
+name: uiles
+version: 0.1.0
+
+authors:
+  - jedediahfanuel <jedediahf51@gmail.com>
+
+targets:
+  uiles:
+    main: src/uiles.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
